@@ -1,7 +1,7 @@
 
 const CONFIG = {
 
-    valentineName: "Żabko",
+    valentineName: "Martynko",
 
     pageTitle: "Zostaniesz moją Walentynką? 💝",
 
@@ -42,7 +42,7 @@ const CONFIG = {
 
     // wiad po "Tak!"
     celebration: {
-        title: "Yay! Jestem najszczęśliwszym chłopakiem na świecie! 🎉💝💖💝💓",
+        title: "Jestem najszczęśliwszą osobą na świecie! 🎉💝💖💝💓",
         message: "Teraz odbierz swój prezent, duże buzi i jeszcze większe przytulenie!",
         emojis: "🎁💖🤗💝💋❤️💕"  // skaczace emotki
     },
