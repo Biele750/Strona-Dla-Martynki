@@ -1,8 +1,6 @@
 
 const CONFIG = {
-
     valentineName: "Martynko",
-
     pageTitle: "Zostaniesz moją Walentynką? 💝",
 
     // Tutaj emotki do gory
@@ -71,7 +69,7 @@ const CONFIG = {
     music: {
         enabled: true,                    
         autoplay: true,                   
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", 
+        musicUrl: "https://res.cloudinary.com/dhydhcg1z/video/upload/v1770337404/Lord_Huron_-_The_Night_We_Met_Official_Audio_mp3cut.net_jg0a6k.mp3", 
         startText: "🎵 Play Music",       
         stopText: "🔇 Stop Music",        
         volume: 0.5                        
